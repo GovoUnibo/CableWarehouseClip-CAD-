@@ -10,21 +10,22 @@ The clips are designed to hold and guide cables in a modular and flexible way, s
 ### Design Overview
 The CAD design highlights the main functional parts of the clip, including the guide tabs, limit tab, and flexible cable entry.
 
-![Design Overview](Imgs/Screenshot_from_2025-08-30_19-26-50.png)
+
+<img src="Imgs/ClipOverview.png" alt="Design Overview" width="350"/>
 
 ---
 
 ### Example Cable Arrangement
 An example rendering with red and blue cables routed through the clip system.
 
-![Example Cable Arrangement](Imgs/ExampleCableClipDisposition.png)
+<img src="Imgs/ExampleCableClipDisposition.png" alt="Example Cable Arrangement" width="350"/>
 
 ---
 
 ### Robotic Application
 Demonstration of the clips being used in a robotic cable handling setup.
 
-![Robotic Application](Imgs/Clip_fronte.png)
+<img src="Imgs/RoboticApplicationExample.png" alt="Robotic Application" width="450"/>
 
 ---
 
