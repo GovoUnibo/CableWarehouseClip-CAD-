@@ -1,2 +1,7 @@
 # CableWarehouseClip-CAD-
 Open-source 3D printable clips (STL files)
+
+
+## License
+The STL files in this repository are licensed under the 
+[Creative Commons Attribution 4.0 International (CC-BY 4.0)](http://creativecommons.org/licenses/by/4.0/).
